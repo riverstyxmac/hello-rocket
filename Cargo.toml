@@ -1,0 +1,11 @@
+[package]
+edition = "2021"
+name = "hello-rocket"
+version = "0.1.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+formdata = "0.12.2"
+rocket = "0.4.10"
+time = "0.1.39"
